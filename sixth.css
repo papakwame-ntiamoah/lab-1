@@ -1,0 +1,130 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.header{
+    margin-top: 20px;
+    text-align: right;
+}
+
+.header > a{
+    padding-right: 30px;
+}
+
+.info{
+    color: red;
+    padding-left: 120px;
+}
+
+.line2{
+    padding-left: 120px;
+}
+
+.courses{
+    display: flex;
+    padding-left: 120px;
+    margin-top: 50px;
+}
+
+.course1{
+    box-shadow: dimgray;
+    background: sandybrown;
+    border: 12px solid transparent;
+    margin-right: 80px;
+    border-radius: 18px;
+}
+.buttons1 > button{
+    background: linear-gradient(90deg,#ee3f3f 0%, #ee3f3f 100%);;
+    border: 12px solid transparent;
+    color: whitesmoke;
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
+    border-radius: 18px;
+    font-size: medium;
+}
+
+.course2{
+    box-shadow: dimgray;
+    background: palegreen;
+    border: 12px solid transparent;
+    margin-right: 70px; 
+    border-radius: 18px;
+}
+
+.buttons2 > button{
+    background: linear-gradient(90deg,#ee3f3f 0%, #ee3f3f 100%);;
+    border: 12px solid transparent;
+    color: whitesmoke;
+    /* box-shadow: 0px 10px 30px rgba(57,56,61,0.205); */
+    border-radius: 18px;
+    font-size: medium;
+}
+
+.course3{
+    box-shadow: dimgray;
+    background: cornflowerblue;
+    border: 12px solid transparent;
+    margin-right: 70px;
+    border-radius: 18px;
+}
+
+.buttons3 > button{
+    background: linear-gradient(90deg,#ee3f3f 0%, #ee3f3f 100%);
+    border: 12px solid transparent;
+    color: whitesmoke;
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
+    border-radius: 18px;
+    font-size: medium;
+}
+
+.lane2{
+    display: flex;
+    padding-left: 120px;
+    margin-top: 100px;
+}
+
+.course4{
+    box-shadow: dimgray;
+    background: cornflowerblue;
+    border: 12px solid transparent;
+    margin-right: 130px;
+    margin-left: 200px;
+    border-radius: 18px;
+}
+
+.buttons4 > button{
+    background: linear-gradient(90deg,#ee3f3f 0%, #ee3f3f 100%);;
+    border: 12px solid transparent;
+    color: white;
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
+    border-radius: 18px;
+    font-size: medium;
+}
+
+.course5 {
+    box-shadow: dimgray;
+    background: sandybrown;
+    border: 12px solid transparent;
+    margin-right: 200px;
+    margin-left: 40px;
+    border-radius: 18px;
+}
+
+.buttons5 > button{
+    background: linear-gradient(90deg,#ee3f3f 0%, #ee3f3f 100%);;
+    border: 12px solid transparent;
+    color: whitesmoke;
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
+    border-radius: 18px;
+    font-size: medium;
+}
+
+body{
+    background-color: silver;
+}
+
+.copyrightinfrigement{
+    text-align: center;
+    margin-top: 100px;
+}

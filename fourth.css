@@ -1,0 +1,48 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.header{
+    margin-top: 20px;
+    text-align: right;
+}
+
+.header > a{
+    padding-right: 30px;
+}
+
+.skill{
+    text-align: center;
+    margin-top: 100px;
+} 
+
+.lines{
+    width: 112px;
+    height: 47px;
+    border-bottom: 1px solid black;
+    position: absolute;
+    padding-right: 50px;
+}
+.info{
+    display: flex;
+    /* margin-left: 100px; */
+}
+
+
+.writings{
+    text-align: left;
+    padding-right: 800px;
+    margin-left: 130px;
+    /* display: flex; */
+}
+
+
+.lines{
+    width: 112px;
+    height: 47px;
+    border-bottom: 1px solid black;
+    position: absolute;
+    padding-right: 50px;
+}

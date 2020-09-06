@@ -1,0 +1,72 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.header{
+    margin-top: 20px;
+    text-align: right;
+}
+
+.header > a{
+    padding-right: 30px;
+}
+
+.info {
+    display: flex;
+    padding-left: 120px;
+}
+
+.line1 {
+    color: red;
+    /* margin-left: 100px; */
+    padding-left: 120px;
+}
+
+.line2 {
+    padding-left: 120px;
+}
+
+.info .firstProject {
+    border-radius: 20px;
+    box-shadow: dimgray;
+    background: lavenderblush;
+    border: 12px solid transparent;
+    margin-right: 70px;
+}
+
+.secondProject {
+    border-radius: 20px;
+    box-shadow: dimgray;
+    background: lavenderblush;
+    border: 12px solid transparent;
+    margin-right: 70px;
+}
+
+.thirdProject {
+    border-radius: 20px;
+    box-shadow: dimgray;
+    background: lavenderblush;
+    border: 12px solid transparent;
+    margin-right: 70px;
+}
+
+body {
+    background-color: silver;
+}
+
+.fourthProject {
+    border-radius: 20px;
+    box-shadow: dimgray;
+    background: lavenderblush;
+    border: 12px solid transparent;
+    margin-right: 500px;
+    margin-left: 540px;
+    margin-top: 80px;
+}
+
+.copyrightinfrigement{
+    text-align: center;
+    margin-top: 100px;
+}

@@ -1,0 +1,46 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.header{
+    margin-top: 20px;
+    text-align: right;
+}
+
+.header > a{
+    padding-right: 30px;
+}
+
+.info .line1{
+    text-align: left;
+    margin-top: 200px;
+    padding-left: 830px;
+    /* background-color: tomato; */
+} 
+
+.info .aboutMe{
+    text-align: left;
+    /* margin-top: 200px; */
+    padding-left: 830px;
+    /* text-align: left; */
+}
+
+.info .aboutMe .buttons >button{
+    background: linear-gradient(90deg,#ee3f3f 0%, #ee3f3f 100%);;
+    border: 12px solid transparent;
+    color: whitesmoke;
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
+    border-radius: 18px;
+    font-size: medium;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.copyrightinfrigement{
+    text-align: center;
+    margin-top: 200px;
+}

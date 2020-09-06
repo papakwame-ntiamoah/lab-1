@@ -1,0 +1,52 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.header{
+    margin-top: 20px;
+    text-align: right;
+}
+
+.header > a{
+    padding-right: 30px;
+}
+
+.info{
+    display: flex;
+}
+.image > img{
+    padding-right: 30px;
+    width: 565px;
+    margin-top: 60px;
+}
+
+.info .first{
+    margin-right: 200px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.info .first .buttons > button{
+    /* margin-left: -38px; */
+    padding: .8rem 2.2rem;
+    font: normal;
+    position: relative;
+    border: 3px solid transparent;
+    border-radius: 3px; 
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
+}
+
+.socials{
+    font: normal;
+    text-align: left;
+}
+
+.copyrightinfrigement{
+    text-align: center;
+}
+
+body{
+    background-color: lightgray;
+}
