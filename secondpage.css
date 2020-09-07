@@ -17,12 +17,14 @@ a{
     text-align: left;
     margin-top: 200px;
     padding-left: 830px;
-    color: red;
+    /* background-color: tomato; */
 } 
 
 .info .aboutMe{
     text-align: left;
+    /* margin-top: 200px; */
     padding-left: 830px;
+    /* text-align: left; */
 }
 
 .info .aboutMe .buttons >button{
