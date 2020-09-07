@@ -13,6 +13,12 @@ a{
     padding-right: 30px;
 }
 
+.image > img{
+    padding-left: 30px;
+    width: 565px;
+    margin-top: 60px;
+    border-radius: 18px;
+
 .info .line1{
     text-align: left;
     margin-top: 200px;
