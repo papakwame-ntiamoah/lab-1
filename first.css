@@ -20,6 +20,7 @@ a{
     padding-right: 30px;
     width: 565px;
     margin-top: 60px;
+    border-radius: 18px;
 }
 
 .info .first{
@@ -29,7 +30,6 @@ a{
 }
 
 .info .first .buttons > button{
-    /* margin-left: -38px; */
     padding: .8rem 2.2rem;
     font: normal;
     position: relative;
@@ -39,7 +39,7 @@ a{
 }
 
 .socials{
-    font: normal;
+    font: medium;
     text-align: left;
 }
 
