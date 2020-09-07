@@ -13,10 +13,6 @@ a{
     padding-right: 30px;
 }
 
-.info{
-    display: flex;
-}
-
 .info .line1{
     text-align: left;
     margin-top: 200px;
@@ -27,7 +23,6 @@ a{
 .info .aboutMe{
     text-align: left;
     padding-left: 830px;
-    
 }
 
 .info .aboutMe .buttons >button{
